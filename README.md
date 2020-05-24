@@ -1,5 +1,5 @@
 # spring-boot-app-composite-primary-key
-Created this repo to implement composite primary key using hibernate
+Created this repo to implement composite primary key using in sprint boot app.
 
 #### Dependencies you need:
   1. MySQL to connect to MySQL database.
